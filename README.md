@@ -1,3 +1,3 @@
-<img width="960" alt="image" src="https://github.com/advitp/SmartServe2/assets/110667042/6ef6affd-97bb-42be-be5f-4fdc2c5f48bd">
-<img width="960" alt="image" src="https://github.com/advitp/SmartServe2/assets/110667042/91f95258-a7bb-4315-b6be-fac25411db99">
-<img width="960" alt="image" src="https://github.com/advitp/SmartServe2/assets/110667042/ee4277e1-cf40-4a29-a2e4-8970443e8145">
+<img width="960" alt="image" src="https://github.com/advitp/SmartServe2/assets/110667042/5c3dc0d1-9fae-423d-ba1a-c3a362bdec0f">
+<img width="960" alt="image" src="https://github.com/advitp/SmartServe2/assets/110667042/341a78c5-facd-40dc-b853-0fbe6be7b903">
+![Uploading image.png…]()
